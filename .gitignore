@@ -15,6 +15,7 @@ x86/
 # Rider / VS Code
 .idea/
 .vscode/
+.vs/
 
 # User-specific files
 *.suo

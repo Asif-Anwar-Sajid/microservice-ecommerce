@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asif\\Documents\\Microservice\\microservice-ecommerce\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\asif\\Documents\\Microservice\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +14,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 59,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Catalog.API",
+              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Services\\Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T11:25:46.937Z",
+              "EditorCaption": ""
             }
           ]
         }
