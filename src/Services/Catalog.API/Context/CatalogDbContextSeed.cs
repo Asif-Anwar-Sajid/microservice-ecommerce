@@ -10,7 +10,7 @@ namespace Catalog.API.Context
         public static void Seed()
         {
             var product = ProductManager.GetFirstOrDefault(c => true);
-            if (product != null)
+            if (product == null)
             {
                 ProductManager.Add(GetPreconfiguredProducts());
             }
