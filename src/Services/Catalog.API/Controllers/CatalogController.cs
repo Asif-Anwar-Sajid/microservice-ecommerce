@@ -35,6 +35,20 @@ namespace Catalog.API.Controllers
         }
 
         [HttpGet]
+        public IActionResult GetById(string id)
+        {
+            try
+            {
+                var product = _productManager.GetById(id);
+                return CustomResult("Data load successfully.", product);
+            }
+            catch (Exception ex)
+            {
+                return CustomResult(ex.Message, HttpStatusCode.BadRequest);
+            }
+        }
+
+        [HttpGet]
         [ProducesResponseType(typeof(Product), (int)HttpStatusCode.OK)]
         public IActionResult GetByCategory(string category)
         {
