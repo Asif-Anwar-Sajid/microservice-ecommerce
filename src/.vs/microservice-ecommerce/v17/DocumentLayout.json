@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asif\\Documents\\Microservice\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\catalog.api\\context\\catalogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\context\\catalogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Catalog.API.csproj",
-              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Catalog.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Catalog.API\\Catalog.API.csproj",
-              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Catalog.API.csproj",
-              "RelativeToolTip": "Services\\Catalog.API\\Catalog.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T11:25:46.937Z",
+              "Title": "CatalogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Context\\CatalogDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog.API\\Context\\CatalogDbContext.cs",
+              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Context\\CatalogDbContext.cs*",
+              "RelativeToolTip": "Services\\Catalog.API\\Context\\CatalogDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T05:04:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Models\\Product.cs",
+              "RelativeToolTip": "Services\\Catalog.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T05:00:56.718Z",
               "EditorCaption": ""
             }
           ]
