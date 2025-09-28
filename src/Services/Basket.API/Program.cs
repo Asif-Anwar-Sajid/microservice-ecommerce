@@ -1,3 +1,5 @@
+using Basket.API.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -9,6 +11,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddStackExchangeRedisCache(options => {
     options.Configuration = builder.Configuration.GetConnectionString("BasketDB");
 });
+builder.Services.AddScoped<IBasketRepository, BasketRepository>();
 
 var app = builder.Build();
 
