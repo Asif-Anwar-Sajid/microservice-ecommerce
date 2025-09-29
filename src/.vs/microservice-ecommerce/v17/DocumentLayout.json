@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\asif\\Documents\\Microservice\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BBCC97CE-3DAB-430D-829E-5692CB96DD82}|Services\\Discount.API\\Discount.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\discount.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBCC97CE-3DAB-430D-829E-5692CB96DD82}|Services\\Discount.API\\Discount.API.csproj|solutionrelative:services\\discount.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBCC97CE-3DAB-430D-829E-5692CB96DD82}|Services\\Discount.API\\Discount.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\discount.api\\discount.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBCC97CE-3DAB-430D-829E-5692CB96DD82}|Services\\Discount.API\\Discount.API.csproj|solutionrelative:services\\discount.api\\discount.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BBCC97CE-3DAB-430D-829E-5692CB96DD82}|Services\\Discount.API\\Discount.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\discount.api\\discount.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BBCC97CE-3DAB-430D-829E-5692CB96DD82}|Services\\Discount.API\\Discount.API.csproj|solutionrelative:services\\discount.api\\discount.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\basket.api\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +23,12 @@
       "RelativeMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\basket.api\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\basket.api\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +41,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\basket.api\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D123EC6-B46A-4733-8AA2-89EFB8FD3087}|Services\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket.api\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84957729-8C55-45DD-B2A6-6B0B067A54B6}|Services\\Catalog.API\\Catalog.API.csproj|c:\\users\\asif\\documents\\microservice\\src\\services\\catalog.api\\manager\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,47 +98,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 59,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Catalog.API",
-              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Catalog.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Catalog.API\\Catalog.API.csproj",
-              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Catalog.API.csproj",
-              "RelativeToolTip": "Services\\Catalog.API\\Catalog.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-28T10:25:58.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Controllers\\BasketController.cs",
-              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Services\\Basket.API\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T10:25:31.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Basket.API",
-              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Basket.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket.API.csproj",
-              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Basket.API.csproj",
-              "RelativeToolTip": "Services\\Basket.API\\Basket.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-28T09:52:07.253Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -141,7 +114,83 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Discount.API",
+              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Discount.API\\Discount.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Discount.API\\Discount.API.csproj",
+              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Discount.API\\Discount.API.csproj",
+              "RelativeToolTip": "Services\\Discount.API\\Discount.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T12:53:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Discount.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Discount.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Discount.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T12:52:50.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Discount.API",
+              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Discount.API\\Discount.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Discount.API\\Discount.API.csproj",
+              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Discount.API\\Discount.API.csproj",
+              "RelativeToolTip": "Services\\Discount.API\\Discount.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T12:52:36.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Catalog.API.csproj",
+              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Services\\Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T10:25:58.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Services\\Basket.API\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:25:31.141Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Basket.API.csproj",
+              "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Basket.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Basket.API\\Basket.API.csproj",
+              "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Basket.API.csproj",
+              "RelativeToolTip": "Services\\Basket.API\\Basket.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T09:52:07.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IBasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Repositories\\IBasketRepository.cs",
               "RelativeDocumentMoniker": "Services\\Basket.API\\Repositories\\IBasketRepository.cs",
@@ -149,8 +198,7 @@
               "RelativeToolTip": "Services\\Basket.API\\Repositories\\IBasketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T09:56:00.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T09:56:00.62Z"
             },
             {
               "$type": "Document",
@@ -160,10 +208,9 @@
               "RelativeDocumentMoniker": "Services\\Basket.API\\Program.cs",
               "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Program.cs",
               "RelativeToolTip": "Services\\Basket.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T09:55:16.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T09:55:16.308Z"
             },
             {
               "$type": "Document",
@@ -173,14 +220,14 @@
               "RelativeDocumentMoniker": "Services\\Basket.API\\Repositories\\BasketRepository.cs",
               "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
               "RelativeToolTip": "Services\\Basket.API\\Repositories\\BasketRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T09:52:46.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "Services\\Basket.API\\Models\\ShoppingCart.cs",
@@ -188,12 +235,11 @@
               "RelativeToolTip": "Services\\Basket.API\\Models\\ShoppingCart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T09:52:41.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T09:52:41.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ShoppingCartItem.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Basket.API\\Models\\ShoppingCartItem.cs",
               "RelativeDocumentMoniker": "Services\\Basket.API\\Models\\ShoppingCartItem.cs",
@@ -201,25 +247,23 @@
               "RelativeToolTip": "Services\\Basket.API\\Models\\ShoppingCartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T09:52:41.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T09:52:41.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CatalogController.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Controllers\\CatalogController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\Controllers\\CatalogController.cs",
               "ToolTip": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Controllers\\CatalogController.cs",
               "RelativeToolTip": "Services\\Catalog.API\\Controllers\\CatalogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T06:47:13.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T06:47:13.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CatalogDbContextSeed.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Context\\CatalogDbContextSeed.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\Context\\CatalogDbContextSeed.cs",
@@ -227,12 +271,11 @@
               "RelativeToolTip": "Services\\Catalog.API\\Context\\CatalogDbContextSeed.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T05:58:16.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T05:58:16.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Manager\\ProductManager.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\Manager\\ProductManager.cs",
@@ -240,12 +283,11 @@
               "RelativeToolTip": "Services\\Catalog.API\\Manager\\ProductManager.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwAgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T05:52:20.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T05:52:20.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\Repository\\ProductRepository.cs",
@@ -253,12 +295,11 @@
               "RelativeToolTip": "Services\\Catalog.API\\Repository\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T05:50:29.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T05:50:29.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IProductManager.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Interfaces\\Manager\\IProductManager.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\Interfaces\\Manager\\IProductManager.cs",
@@ -266,12 +307,11 @@
               "RelativeToolTip": "Services\\Catalog.API\\Interfaces\\Manager\\IProductManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T05:49:14.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T05:49:14.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Interfaces\\Repository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\Interfaces\\Repository\\IProductRepository.cs",
@@ -279,12 +319,11 @@
               "RelativeToolTip": "Services\\Catalog.API\\Interfaces\\Repository\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T05:47:46.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T05:47:46.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\appsettings.json",
@@ -292,12 +331,11 @@
               "RelativeToolTip": "Services\\Catalog.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-25T05:05:10.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T05:05:10.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CatalogDbContext.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Context\\CatalogDbContext.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\Context\\CatalogDbContext.cs",
@@ -305,12 +343,11 @@
               "RelativeToolTip": "Services\\Catalog.API\\Context\\CatalogDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T05:04:13.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T05:04:13.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AppHostedService.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\HostingService\\AppHostedService.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\HostingService\\AppHostedService.cs",
@@ -318,12 +355,11 @@
               "RelativeToolTip": "Services\\Catalog.API\\HostingService\\AppHostedService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T06:30:28.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T06:30:28.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\Program.cs",
@@ -331,12 +367,11 @@
               "RelativeToolTip": "Services\\Catalog.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T06:32:02.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T06:32:02.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\asif\\Documents\\Microservice\\src\\Services\\Catalog.API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Services\\Catalog.API\\Models\\Product.cs",
@@ -344,8 +379,7 @@
               "RelativeToolTip": "Services\\Catalog.API\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T05:00:56.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T05:00:56.718Z"
             }
           ]
         }
